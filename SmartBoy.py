@@ -50,15 +50,15 @@ def jalan(z):
 logo = """
                        
                      
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       facebook:Easin.Official10
+
+JIBON
+
+       facebook:Jibon Khan
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1: md_easin
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;98mji-bon/jibon
+\033[1;96mInstagram \033[1;93m: \033[1: md_jibon
+\033[1;96mFacebook  \033[1;93m: \033[1: Jibon.officials10
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/rjs
 \033[1;91m======================================="""
 
 def tik():
@@ -81,20 +81,20 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m
  
             
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       Facebook:Smart Boy Easin
+▒█▀▀▀RRJS Jibon 
+░▀▀▀▄
+
+       Facebook:Jibon Khan
  
 \033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
 \033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/rjs
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "easin"
-CorrectPassword = "easin"
+CorrectUsername = "Jibon"
+CorrectPassword = "Jibon"
 
 loop = 'true'
 while (loop == 'true'):
@@ -106,10 +106,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open Jibon Khan /UCDJbhYSPToi1-CdzGLEzAIQ ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open  Jibon khan -CdzGLEzAIQ ')
 
 def login():
 	os.system('clear')
