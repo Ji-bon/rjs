@@ -15,8 +15,8 @@
 
 * pkg install git
 
-* git clone http://github.com/SmartBoyEasin/SmartBoy
+* git clone http://github.com/ji-bon/jibon
 
-* cd SmartBoy
+* cd jibon
 
-* python2 SmartBoy.py
+* python2 jibon.py
