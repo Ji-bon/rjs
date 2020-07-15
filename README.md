@@ -22,6 +22,6 @@
 
 * python2 rjs.py
 
-* usar : mithifuck
+
 
 
