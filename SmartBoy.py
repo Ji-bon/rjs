@@ -55,7 +55,7 @@ JIBON
 
        facebook:Jibon Khan
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mji-bon/jibon
+\033[1;96mAuthor  \033[1;93m: \033[1;98mji-bon/rjs
 \033[1;96mInstagram \033[1;93m: \033[1: md_jibon
 \033[1;96mFacebook  \033[1;93m: \033[1: Jibon.officials10
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/rjs
@@ -86,9 +86,9 @@ print  """\033[1;91m
 
        Facebook:Jibon Khan
  
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
+\033[1;96mAuthor  \033[1;93m: \033[1;92mjibon khan 
+\033[1;96mInstagram \033[1;93m: \033[1;92mmd_jibon
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Jibon.officials10
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/rjs
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
