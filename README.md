@@ -15,8 +15,9 @@
 
 * pkg install git
 
-* git clone http://github.com/ji-bon/jibon
+* git clone http://github.com/ji-bon/rjs
 
-* cd jibon
 
-* python2 jibon.py
+* cd rjs
+
+* python2 rjs.py
