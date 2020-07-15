@@ -21,3 +21,7 @@
 * cd rjs
 
 * python2 rjs.py
+
+* usar : mithifuck
+
+* pass : fuckmithi
